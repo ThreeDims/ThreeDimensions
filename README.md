@@ -1,4 +1,4 @@
-[Project Name]
+**Three Dimensions**
 This repository houses my personal project, [Project Name], which is a [briefly describe the project and its purpose].
 
 Key Features:
