@@ -4,5 +4,7 @@ This repository is the location for project files and code snippets associated w
 
 The YouTube channel centres around the use of AI to aid productivity, with a heavy bias towards running LLM's and workflow tools locally on Apple Mac computers. 
 
+![image](https://github.com/ThreeDims/ThreeDimensions/blob/main/Assets/n8n_00002_.png)
+
 
 License: This project is licensed under the MIT license - see the LICENSE file for details.
